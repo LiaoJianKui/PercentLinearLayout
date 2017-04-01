@@ -1,2 +1,2 @@
 # PercentLinearLayout
-百分比布局
+![image](https://github.com/LiaoJianKui/PercentLinearLayout/raw/master/relative.png)
